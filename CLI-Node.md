@@ -159,3 +159,6 @@ nexus-network start --node-id your-node-id
 ```
 
 Replace "your-node-id" with your actual Node ID
+
+
+### Made with 💚 by [zarv](https://x.com/zarvxbt)  
